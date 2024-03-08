@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning : Diving deep into machine learning and honing my skills in web development.
 - 👯 I’m looking to collaborate on : Exciting open-source projects or anything related to artificial intelligence.
 
+## 📫 My Projects
+- I am the creater of [Bloggi](https://the-best-bloggi.netlify.app/)
+- I am the creater of [InstarResume](https://instar-resume.netlify.app/)
+- I am the creater of [CricketBashers](https://pcc-cricket-bashers.netlify.app/)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gayan65&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 <!--
