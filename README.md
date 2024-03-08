@@ -1,8 +1,16 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on : Exploring new technologies and building innovative projects.
- 🌱 I’m currently learning : Diving deep into machine learning and honing my skills in web development.
- 👯 I’m looking to collaborate on : Exciting open-source projects or anything related to artificial intelligence.
+	```
+{
+  "firstName": "Gayan",
+  "lastName": "Gamage",
+  "age": 25
+}
+```
+
+- 🔭 I’m currently working on : Exploring new technologies and building innovative projects.
+- 🌱 I’m currently learning : Diving deep into machine learning and honing my skills in web development.
+- 👯 I’m looking to collaborate on : Exciting open-source projects or anything related to artificial intelligence.
 <!--
 **Gayan65/Gayan65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
