@@ -1,16 +1,11 @@
-### Hi there 👋
-
-	```
-{
-  "firstName": "Gayan",
-  "lastName": "Gamage",
-  "age": 25
-}
-```
+### Hi there 👋 I am Gayan
 
 - 🔭 I’m currently working on : Exploring new technologies and building innovative projects.
 - 🌱 I’m currently learning : Diving deep into machine learning and honing my skills in web development.
 - 👯 I’m looking to collaborate on : Exciting open-source projects or anything related to artificial intelligence.
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gayan65&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 <!--
 **Gayan65/Gayan65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,8 +32,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gayan65&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayan65&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gayan65&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gayan65&limit=5&theme=nord&combine_all_yearly_contributions=true)
